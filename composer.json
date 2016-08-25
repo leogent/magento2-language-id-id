@@ -1,0 +1,29 @@
+{
+    "name": "leogent/magento2-language-id-id",
+    "description": "Magento2 Bahasa Indonesia Language Pack (id_ID)",
+    "version": "1.0.0",
+    "type": "magento2-language",
+    "homepage": "http://leogent.github.io/magento2-language-id-id",
+    "keywords": [
+        "magento",
+        "magento2",
+        "magento 2",
+        "plugin",
+        "module",
+        "indonesia",
+        "bahasa indonesia",
+        "language pack",
+        "id_ID",
+        "i18n",
+        "id"
+    ],
+    "license": [
+        "MIT"
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}

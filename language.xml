@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magento2 Bahasa Indonesia Language Pack (id_ID)
+ * 
+ * Website: http://leogent.github.io/magento2-language-id-id
+ * Github: https://github.com/leogent/magento2-language-id-id 
+ * 
+ * @author Leogent Haromunthe <leogent@gmail.com>
+ * @copyright Copyright © 2016 Leogent
+ * @version 1.0.0
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>id_ID</code>
+    <vendor>leogent</vendor>
+    <package>id_id</package>
+    <sort_order>1</sort_order>
+</language>
